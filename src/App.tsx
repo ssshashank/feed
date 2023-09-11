@@ -11,4 +11,6 @@ const FeedApp = () => (
 		<div>CSS: Tailwind</div>
 	</div>
 );
+
+export default FeedApp;
 ReactDOM.render(<FeedApp />, document.getElementById("app"));
